@@ -1,18 +1,9 @@
 ---
-title: Brad Tiller
+title: Anh Ngọc
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/brad-tiller.jpg
+  Backend developer, love to learn about latest technology and build side projects.
+avatar: /images/avatar.jpg
 social:
   - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+    url: https://github.com/pearl2201/
 ---
